@@ -1,7 +1,11 @@
 Robotics Manipulation======
 
 
-This is the code for [this](https://youtu.be/mCI-f71MAvY) video on Youtube by Siraj Raval. Tinyik is a simple and naive inverse kinematics solver.
+This is the code for video on Youtube by Siraj Raval - https://youtu.be/mCI-f71MAvY 
+Credits for this code go to Ianus - https://github.com/lanius/tinyik 
+If you want the 3D Simulation, you'll need to use the javascript version here - https://github.com/glumb/kinematics
+
+Tinyik is a simple and naive inverse kinematics solver.
 
 It defines an actuator as a set of links and revolute joints from an origin. Here is an example of a robot arm that consists of two joints that rotate around z-axis and two links of 1.0 length along x-axis:
 
