@@ -1,9 +1,9 @@
-Robotics Manipulation======
+Robotics Manipulation
 
 
-This is the code for video on Youtube by Siraj Raval - https://youtu.be/mCI-f71MAvY 
-Credits for this code go to Ianus - https://github.com/lanius/tinyik 
-If you want the 3D Simulation, you'll need to use the javascript version here - https://github.com/glumb/kinematics
+This is the code for video on Youtube by Siraj Raval - https://youtu.be/mCI-f71MAvY .
+Credits for this code go to Ianus - https://github.com/lanius/tinyik .
+If you want the 3D Simulation, you'll need to use the javascript version here - https://github.com/glumb/kinematics .
 
 Tinyik is a simple and naive inverse kinematics solver.
 
